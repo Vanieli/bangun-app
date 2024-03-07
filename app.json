@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "bangun-app",
-    "slug": "bangun-app",
+    "name": "Menghitung: Bangun Datar dan Bangun Ruang",
+    "slug": "Menghitung: Bangun Datar dan Bangun Ruang",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#FFF"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -24,7 +24,7 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/logo.png"
     }
   }
 }
